@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nikhilgithub9390@gmail.com**
 
-- ⚡ Fun fact **Spaces are the preferred indentation method**
+- ⚡ Fun fact **==> Spaces are the preferred indentation method**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
