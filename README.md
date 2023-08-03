@@ -1,7 +1,7 @@
 ![logo](https://github.com/NIKHILPNAIK/NIKHILPNAIK/blob/main/wallpaperflare.com_wallpaper%20(13).jpg)
 <h1 align="center">Hi 👋, I'm NIKHIL NAIK</h1>
 <h3 align="center">2nd Year University Student from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bleepstatic.com/images/news/u/1164866/2022/Apr-2022/qr-code-moving/qr-code-moving.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/QRCodeGIF6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpnaik&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpnaik" /> </p>
 
 - 🔭 I’m currently working on [Full Stack Responsive Website](https://atozstore.tiiny.site)
