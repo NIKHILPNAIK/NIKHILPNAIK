@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python,Javascript**
 
-- 💬 Ask me about **Python,HTML,CSS**
+- 💬 Ask me about **Java,MySQL,Javascript,Azure,AWS,HTML,CSS**
 
 - 📫 How to reach me **nikhilgithub9390@gmail.com**
 
