@@ -1,4 +1,6 @@
-![logo](https://github.com/NIKHILPNAIK/NIKHILPNAIK/blob/main/wallpaperflare.com_wallpaper%20(13).jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UnknownWanderer12/UnknownWanderer12/main/assets/download.gif" />
+</p>
 
 <h1 align="left">
   Hi 👋! My name is Nikhil Naik <br/>
