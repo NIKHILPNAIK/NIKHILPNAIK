@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/QRCodeGIF6.gif" />
+<img align="right" height="200" src="https://github.com/NIKHILPNAIK/IMAGES-AND-GIFS-/blob/main/qrLinkedin.gif" />
 
 ###
 
